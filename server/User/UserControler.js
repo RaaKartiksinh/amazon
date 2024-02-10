@@ -76,3 +76,22 @@ class UserControler {
 }
 const userControler = new UserControler()
 module.exports = userControler;
+
+
+
+
+// e
+// DB_UNAME=online_amazon
+// DB_PASS=kartiksinh
+// JWT_secretKey=hfudjhfniwuskjdhfnwulshfnfgffdhthhghghgfhggfhjfksbjlhbvaljbfaskjlbfkljashfkjdsdhfvdkjfndjkfnvldkjfnjdnvfjgnvkjfnvfknvkfvnkvcn jfcv fjcvn fjcvjjdcbmvjcb erulisjhtnlsiukeyjhtngaiuljythnaeo8lduthgudythger8udythgp8serdyfthg
+// # origin=*
+// origin=http://localhost:3000
+// # pay 
+
+// # me
+// # API_KEY="rzp_test_YIHdAJpQRK0nR9",
+// # KEY_SECRET="96KT5E750qQ5WaLfABCgCr0w"
+
+// # prateek
+// API_KEY=rzp_test_h1wl5Gs5l1lyyM
+// KEY_SECRET=iGdFHaREk5DJbemnEFeqUhWn 
